@@ -7,7 +7,13 @@
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn,  Keras
 
 ###### Портфолио:
+Сопоставление пользовательских названий городов и унифицированных названий городов для карьерного центра.
+https://github.com/AlexReznickenko/city_name_matching
+
+Проекты из Яндекс.Практикума
 https://github.com/AlexReznickenko/Yandex_Practicum_DataScience
+
+
 
 <!--
 **AlexReznickenko/AlexReznickenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
